@@ -29,4 +29,5 @@ puts "Step 7: Place right hand on hip."
 # Step 8: FIXME
 puts "Step 8: Place left hand on hip."
 
+# Step 9: FIXME
 puts "Say: 'AY! Macarena!'"
