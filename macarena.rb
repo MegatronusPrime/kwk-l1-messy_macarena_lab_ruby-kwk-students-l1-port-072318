@@ -1,7 +1,6 @@
 #Syntax:
 
 def macarena
-# Step 1: GOOD
   puts "Step 1: Right arm out in front of you, palm facing down."
   puts "Step 2: Left arm out in front of you, palm facing down."
   puts "Step 3: Place your right hand on your left shoulder."
